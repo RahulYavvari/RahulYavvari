@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RahulYavvari
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning learning C++
-- 💞️ I’m looking to collaborate on open source projects in c++
+- 🌱 I’m currently learning learning C
+- 💞️ I’m looking to collaborate on open source projects in C
 - 📫 How to reach me : rahulyavvari04@gmail.com
 
 <!---
