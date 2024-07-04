@@ -4,6 +4,12 @@
 🎨 My Portfolio (Under Development) [rahulyavvari.github.io](https://rahulyavvari.github.io)<br/>
 💭 Currently learning about distributed system design and computer networks!<br/>
 
+<p>
+  <a href="https://drive.google.com/file/d/1rFcWygtSXwZlPW8IGsPeVX361kMPiI_3/view" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-8A2BE2" alt="View Resume Button">
+  </a>
+</p>
+
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulyavvari) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rahulyavvari) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16645729) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RahulYavvari) 
 
