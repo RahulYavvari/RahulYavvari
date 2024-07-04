@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rahul!
-👨🏻‍💻 Software Developer, love to code intersting projects.<br/>
+👨🏻‍💻 Software Developer, love to code interesting projects.<br/>
 🧑🏻‍🎓 Studying B.Tech Electronics and Communication Engineering at Indian Institute of Information Technology, Guwahati.<br/>
 🎨 My Portfolio (Under Development) [rahulyavvari.github.io](https://rahulyavvari.github.io)<br/>
 💭 Currently learning about distributed system design and computer networks!<br/>
