@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Rahul!
-👨🏻‍💻 Software Developer, love to code interesting projects.<br/><br/>
-🧑🏻‍🎓 Studying B.Tech Electronics and Communication Engineering at Indian Institute of Information Technology, Guwahati.<br/><br/>
-🎨 My Portfolio (Under Development) [rahulyavvari.github.io](https://rahulyavvari.github.io)<br/><br/>
-💭 Currently learning about distributed system design and computer networks!<br/><br/>
+👨🏻‍💻 I love to code interesting projects and try different programming languages.<br/>
+👨🏻‍💻 Software Development Intern at RevoltronX.<br/>
+🧑🏻‍🎓 Studying B.Tech Electronics and Communication Engineering at Indian Institute of Information Technology, Guwahati.<br/>
+🎨 My Portfolio (Under Development) [rahulyavvari.github.io](https://rahulyavvari.github.io)<br/>
+💭 Currently learning about distributed system design and computer networks!<br/>
 
 <p>
   <a href="https://drive.google.com/file/d/1rFcWygtSXwZlPW8IGsPeVX361kMPiI_3/view" target="_blank">
