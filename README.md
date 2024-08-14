@@ -6,7 +6,7 @@
 💭 Currently learning about distributed system design and computer networks!<br/>
 
 <p>
-  <a href="https://drive.google.com/file/d/1rFcWygtSXwZlPW8IGsPeVX361kMPiI_3/view" target="_blank">
+  <a href="https://drive.google.com/file/d/1N7_NaMOIGUPCm9_9fgztjvDydf3Pv7xU/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-8A2BE2" alt="View Resume Button">
   </a>
 </p>
